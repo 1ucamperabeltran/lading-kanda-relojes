@@ -1,7 +1,12 @@
- nav .navbar{
- 
-   color: white;
+.kosmo {
+background-image: url();
+}
 
+nav {
+   background-color:black;
+}
+.card{
+   padding: 100px 100px 100px 100px;
 }
 footer {
    background-color: black;
